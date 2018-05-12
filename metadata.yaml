@@ -1,0 +1,32 @@
+_repo: The-Story-of-Scotch_42559
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42559-h/images/frontcover2.jpg
+creator:
+  author:
+    agent_name: Mills, Enos A.
+    alias: Mills, Enos Abijah
+    birthdate: 1870
+    deathdate: 1922
+    gutenberg_agent_id: '33404'
+    url: http://www.gutenberg.org/2009/agents/33404
+    wikipedia: http://en.wikipedia.org/wiki/Enos_Mills
+description: ''
+gutenberg_issued: '2013-04-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42559'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Border collie -- Biography'
+- !lcsh 'Dogs -- Colorado -- Biography'
+- !lcsh 'Mills, Enos A., 1870-1922'
+- !lcsh 'Naturalists -- United States -- Biography'
+- !lcc 'SF'
+- !lcsh 'Dogs -- Behavior'
+title: The Story of Scotch
+url: http://www.gutenberg.org/ebooks/42559
